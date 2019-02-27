@@ -1,0 +1,4 @@
+{
+    "api_url_second": "/today-and-tomorrow/?",
+    "api_url_first": "http://api.population.io:80/1.0/population/"
+}
